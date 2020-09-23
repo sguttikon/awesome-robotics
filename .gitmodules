@@ -1,0 +1,3 @@
+[submodule "active-slam"]
+	path = active-slam
+	url = https://github.com/suresh-guttikonda/active-slam.git
