@@ -1,0 +1,3 @@
+[submodule "active-slam/openai-rosbot-env"]
+	path = active-slam/openai-rosbot-env
+	url = https://github.com/suresh-guttikonda/openai-rosbot-env.git
